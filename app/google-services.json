@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "87333995530",
+    "firebase_url": "https://testi-4e44b-default-rtdb.firebaseio.com",
+    "project_id": "testi-4e44b",
+    "storage_bucket": "testi-4e44b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87333995530:android:f2c6b3492eb0b5052f4bf3",
+        "android_client_info": {
+          "package_name": "com.example.moneynote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4FOzJTPSMv8M8_AQ7C61xrBOA9uQuIYA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
