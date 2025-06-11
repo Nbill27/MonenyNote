@@ -135,8 +135,8 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - your.email@example.com
+Your Name - nabildeja0@gmail.com
 
-Project Link: [https://github.com/your-username/MoneyNote](https://github.com/your-username/MoneyNote)
+Project Link: [https://github.com/your-username/MoneyNote](https://github.com/Nbill27/MonenyNote.git)
 
 ---
