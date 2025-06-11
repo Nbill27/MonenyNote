@@ -1,3 +1,4 @@
+
 # MoneyNote
 
 ![MoneyNote App Screenshot - Placeholder](https://via.placeholder.com/600x400.png?text=MoneyNote+App+Screenshot)
@@ -95,3 +96,47 @@ To get a local copy up and running, follow these simple steps.
     * **Profile (Person icon):** See your name, email, and the sum of all your expenses. You can also log out from this screen.
 
 ## Project Structure (Simplified)
+
+```
+MoneyNote/
+├── app/
+│   ├── src/
+│   │   ├── main/
+│   │   │   ├── java/
+│   │   │   │   └── com/yourcompany/moneynote/
+│   │   │   │       ├── activity/        # Main screens (Splash, Login, Register, Main)
+│   │   │   │       ├── fragment/        # UI sections within MainActivity (Note, List, Profile)
+│   │   │   │       ├── adapter/         # RecyclerView adapter for transactions
+│   │   │   │       ├── model/           # Data models (User, Transaction)
+│   │   │   │       └── util/            # Utility classes & constants
+│   │   │   └── res/
+│   │   │       ├── drawable/            # Icons and images
+│   │   │       ├── layout/              # XML layouts for activities and fragments
+│   │   │       ├── menu/                # Bottom navigation menu
+│   │   │       └── values/              # Strings, colors, themes
+│   │   └── google-services.json         # Firebase configuration file
+├── build.gradle (Project)
+└── app/build.gradle (Module)
+```
+
+## Contributing
+
+This project was developed for academic purposes. Contributions are welcome for learning and improvement.
+
+1.  Fork the Project
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4.  Push to the Branch (`git push origin feature/AmazingFeature`)
+5.  Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+## Contact
+
+Your Name - your.email@example.com
+
+Project Link: [https://github.com/your-username/MoneyNote](https://github.com/your-username/MoneyNote)
+
+---
